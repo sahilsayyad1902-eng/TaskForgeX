@@ -1,4 +1,5 @@
 name: Publish frontend to GitHub Pages
+run-name: Deploy TaskForgeX website
 
 on:
   push:
